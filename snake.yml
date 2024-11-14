@@ -1,23 +1,2 @@
-name: Generate Snake Animation
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  generate-snake:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Code
-        uses: actions/checkout@v2
-      - name: Generate Snake Animation
-        uses: Platane/snk@master
-        with:
-          github_user: bhagyesh98
-          svg: true
-          gif: false
 
