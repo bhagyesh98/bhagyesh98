@@ -1,6 +1,10 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Bhagyesh</h1>
 <h3 align="center">Exploring DevOps</h3>
+
+<!-- Centered GIF Image -->
+<div align="center">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Animated GIF of DevOps Journey" width="600" height="315" />
+</div>
 
 <!--
 **bhagyesh98/bhagyesh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
