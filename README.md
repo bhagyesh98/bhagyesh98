@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bhagyesh</h1>
 <h3 align="center">Exploring DevOps</h3>
+<div align="center">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="Animated GIF of DevOps Journey" width="600" height="315" />
+</div>
 
 **bhagyesh98/bhagyesh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagyesh98" alt="bhagyesh98" /></a> </p>
 
 Here are some ideas to get you started:
 - 🌱 **I’m currently diving into DevOps tools and techniques.**
-- 
 - 💬 **I enjoy tackling complex problems and simplifying workflows—always open to exploring innovative solutions.**
-
 - ⚡ **I’m constantly learning and adapting to new technologies. I’m excited to collaborate on open-source projects that contribute to impactful and meaningful development.**
 
 <h3 align="left">Connect with me:</h3>
